@@ -1,3 +1,9 @@
-
 *.class
-*.class
+*.zip
+*.rar
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+/.metadata/
