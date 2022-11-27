@@ -8,3 +8,9 @@
 *.xlsx
 /.metadata/
 *.class
+/bin/
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+*.prefs
+*.class
