@@ -1,4 +1,4 @@
-package Testes;
+package Testes.DIO;
 
 import java.util.Scanner;
 
