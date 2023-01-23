@@ -8,7 +8,7 @@ public class Funcionario extends Pessoa{
 	public String getCarteiraProfissional() {return carteiraProfissional;}
 	public double getSalario() {return salario;}
 	public void setSalario(double salario) {this.salario = salario;}
-	public double calculoPagamento() {return salario;}
+	public double calculaPagamento() {return salario;}
 	
 	public void setCarteiraProfissional(String carteiraProfissional) {
 		this.carteiraProfissional = carteiraProfissional;

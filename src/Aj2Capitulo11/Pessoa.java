@@ -1,5 +1,9 @@
 package Aj2Capitulo11;
 
+/**
+ * @author karlinhos987
+ *
+ */
 //ExemploP244_01
 public class Pessoa {
 	private String nome;
